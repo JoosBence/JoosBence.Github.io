@@ -6,3 +6,9 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+.Banner{
+   background-image: url(/JoosBence.Github.io/img/banner.jpg);
+   height: 400px;
+   background-position: center center;
+   background-size:cover ;
+}
