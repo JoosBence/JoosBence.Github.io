@@ -13,12 +13,13 @@ body {
    background-size:cover ;
 }
 
-.kave:img{
+.kave{
     color: #1f5b25;
     background-color: white;
     border: 1px solid #1f5b25;
     border-radius: 4px;
     margin-bottom:1rem;
+    display: inline-block;
     
 }
 .kave:hover{
@@ -30,4 +31,10 @@ body {
     text-align: center;
     margin-top: 1rem;
     font-variant: small-caps;
+}
+
+#teszt{
+    position: absolute;
+    width: 50px;
+
 }
